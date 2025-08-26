@@ -14,7 +14,7 @@ Sou um entusiasta da tecnologia com paixão por desenvolvimento de software e in
 - 🌱 Atualmente estou aprendendo: Machine Learning e DevOps.
 - 👯 Quero colaborar em: Projetos de código aberto e iniciativas que impactem positivamente.
 - 💬 Pergunte-me sobre: Desenvolvimento Web, C#, Python, Java, JavaScript, e Automação.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/murilo-silva-b91b-424a-81a2-a9c0c1b3c7b2/)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/murilo-camelo-devloper/)
 
 ## Habilidades
 
